@@ -1,3 +1,3 @@
 # Seti UI Compact
 
-A fork of [@jesseweed](https://github.com/Baelx)'s Seti UI, compacted for smaller screens.
+A fork of jesseweed's [Seti UI](https://github.com/jesseweed/seti-ui), compacted for smaller screens.
